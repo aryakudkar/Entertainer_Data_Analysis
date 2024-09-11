@@ -1,4 +1,4 @@
-# Entertainer_Data_Analysis
+# Entertainer_Data_Analysis 📊
 
 # Overview
 * Entertainer Data Analysis provides a comprehensive overview of data related to entertainers. 
